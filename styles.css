@@ -1,0 +1,49 @@
+.d1 {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-style: dotted;
+
+}
+
+img {
+
+width: 10vh;
+height: 10vh;
+display: block;
+
+}
+
+.d2 {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 10vh;
+    border-style: dotted;
+    width: 10vh;
+    height: 101vh;
+
+}
+
+.d3 {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-style: dotted;
+    flex-direction: row-reverse;
+}
+
+.d4 {
+
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-evenly;
+    margin-left: 175vh;
+    border-style: dotted;
+    width: 10vh;
+    height: 101vh;
+
+}
